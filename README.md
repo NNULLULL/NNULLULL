@@ -1,10 +1,5 @@
 ### Hi I'm NNULLULL
 
-<!--
-**NNULLULL/NNULLULL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:nnullull@qq.com)](mailto:nnullull@qq.com)
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 ### A little more about me
 
